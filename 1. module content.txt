@@ -1,0 +1,5 @@
+1. NN and deep learning
+2. hyperparameter tuning - regularization, optimization
+3. structuring ML project
+4. CNN
+5. NLP
